@@ -4,11 +4,11 @@ public class task-1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Prompt user for input
+        // Input
         System.out.print("Enter temperature value: ");
         double temperature = scanner.nextDouble();
 
-        // Prompt user for the original unit of measurement
+        // The original unit of measurement
         System.out.print("Enter original unit (C for Celsius, F for Fahrenheit, K for Kelvin): ");
         char originalUnit = scanner.next().charAt(0);
 
