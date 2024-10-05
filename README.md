@@ -18,22 +18,22 @@ This internship is designed to offer participants hands-on experience in the sof
 
 ## Internship Schedule
 
-### Week 1 (January 1 - January 7)
+### Week 1 (October 1 - October 7)
 
 - **Orientation:** Get acquainted with Prodigy InfoTech's culture, values, and team members.
 - **Project Introduction:** Learn about the assigned project and the technologies involved.
 
-### Week 2 (January 8 - January 14)
+### Week 2 (October 8 - October 14)
 
 - **Hands-on Coding:** Dive into coding tasks with guidance and support from mentors.
 - **Training Sessions:** Attend sessions on relevant technologies and tools.
 
-### Week 3 (January 15 - January 21)
+### Week 3 (October 15 - October 21)
 
 - **Project Development:** Continue working on the project, applying knowledge gained in training.
 - **Code Reviews:** Participate in code reviews to improve code quality.
 
-### Week 4 (January 22 - January 31)
+### Week 4 (October 22 - October 31)
 
 - **Finalization:** Complete assigned tasks, wrap up the project, and prepare for the final presentation.
 - **Feedback Session:** Receive feedback on performance and discuss overall experiences.
