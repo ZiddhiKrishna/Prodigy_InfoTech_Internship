@@ -2,7 +2,7 @@
 
 Welcome to the Prodigy InfoTech Software Development Domain Internship! This README.md provides essential information about the internship program, including objectives, schedule, and expectations.
 
-Overview
+## Overview
 
 This internship is designed to offer participants hands-on experience in the software development domain. Interns will have the opportunity to work on real-world projects, learn from industry experts, and enhance their coding skills.
 
